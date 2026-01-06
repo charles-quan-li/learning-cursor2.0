@@ -97,4 +97,3 @@ First-ai-powered-project/
 ## License
 
 This project is open source and available for educational purposes.
-
